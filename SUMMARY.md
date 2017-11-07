@@ -1,5 +1,6 @@
 # Summary
 
+* [封面](feng-mian.md)
 * [介绍](README.md)
 * [第1章 使命召唤](di-1-zhang-shi-ming-zhao-huan.md)
   * [普通的世界](pu-tong-de-shi-jie.md)
@@ -44,5 +45,6 @@
       * 安卓
       * iOS
     * [激光雷达](hui-qu-de-lu/zhong-sheng/ji-guang-lei-da.md)
+    * [PhoenixCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
   * [满载而归（向着更远的方向前进）](hui-qu-de-lu/man-zai-er-gui.md)
 
