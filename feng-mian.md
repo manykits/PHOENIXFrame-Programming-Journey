@@ -1,6 +1,6 @@
 # **PHOENIXFrame 编程之旅**
 
-The Jonoury of PHOENIXFrame Programming
+The Jonoury Of PHOENIXFrame Programming
 
 ## 从0开始创造你的机器人
 
