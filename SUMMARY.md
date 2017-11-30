@@ -4,7 +4,7 @@
 * [介绍](README.md)
 * [第1章 使命召唤](di-1-zhang-shi-ming-zhao-huan.md)
   * [普通的世界](pu-tong-de-shi-jie.md)
-  * [冒险的招呼](mao-xian-de-zhao-hu.md)
+  * [冒险的呼唤](mao-xian-de-zhao-hu.md)
   * [与智者相遇](di-1-zhang-shi-ming-zhao-huan/yu-zhi-zhe-xiang-yu.md)
 * [第2章 踏上征程](chapter1.md)
   * [第一个极限（三轮车）](di-yi-ge-ji-xian.md)
