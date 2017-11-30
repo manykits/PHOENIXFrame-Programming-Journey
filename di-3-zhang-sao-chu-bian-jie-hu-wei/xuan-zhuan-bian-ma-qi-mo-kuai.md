@@ -1,3 +1,5 @@
+# 旋转编码器模块
+
 # 介绍
 
 旋转编码器可通过旋转可以计数正方向和反方向转动过程中输出脉冲的次数，旋转计数不像电位计，这 种转动计数是没有限制的。配合旋转编码器上的按键，可以复位到初始状态，即从0开始计数。
@@ -58,7 +60,7 @@ int getEncoderTurn()
  int result = 0; 
  int newA = digitalRead(aPin); 
  int newB = digitalRead(bPin);
- 
+
  if (newA != oldA || newB != oldB)
  { // something has changed
   if (oldA == LOW && newA == HIGH)
@@ -102,7 +104,6 @@ void setLights(int red, int yellow, int green)
  digitalWrite(yellowPin, yellow); 
  digitalWrite(greenPin, green);
 }
-
 ```
 
 
