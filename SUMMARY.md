@@ -7,7 +7,7 @@
   * [冒险的招呼](mao-xian-de-zhao-hu.md)
   * [与智者相遇](di-1-zhang-shi-ming-zhao-huan/yu-zhi-zhe-xiang-yu.md)
 * [第2章 踏上征程](chapter1.md)
-  * [第一个极限（迷你车的问候）](di-yi-ge-ji-xian.md)
+  * [第一个极限（三轮车的问候）](di-yi-ge-ji-xian.md)
   * [逻辑守卫（编程）](luo-ji-shou-wei-ff08-bian-cheng-ff09.md)
     * [C/C++](luo-ji-shou-wei-ff08-bian-cheng-ff09/c++.md)
     * [Lua](luo-ji-shou-wei-ff08-bian-cheng-ff09/lua.md)
