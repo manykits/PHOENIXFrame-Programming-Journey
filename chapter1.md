@@ -4,21 +4,21 @@
 
 传感器的特点包括：微型化、数字化、智能化、多功能化、系统化、网络化。它是实现自动检测和自动控制的首要环节。传感器的存在和发展，让物体有了触觉、味觉和嗅觉等感官，让物体慢慢变得活了起来。通常根据其基本感知功能分为热敏元件、光敏元件、气敏元件、力敏元件、磁敏元件、湿敏元件、声敏元件、放射线敏感元件、色敏元件和味敏元件等十大类。
 
-人们为了从外界获取信息，必须借助于感觉器官。
+人们为了从外界获取信息，必须借助于感觉器官。而单靠人们自身的感觉器官，在研究
 
-[![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=38de835b4f4a20a4351e3bc5a0539847/b17eca8065380cd7eaeb79a4a144ad3458828186.jpg "传感器汇总图片精选")传感器汇总图片精选\(6张\)](https://baike.baidu.com/pic/%E4%BC%A0%E6%84%9F%E5%99%A8/26757/416634/b17eca8065380cd7eaeb79a4a144ad3458828186?fr=lemma&ct=cover)
+[![](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=38de835b4f4a20a4351e3bc5a0539847/b17eca8065380cd7eaeb79a4a144ad3458828186.jpg "传感器汇总图片精选")](https://baike.baidu.com/pic/传感器/26757/416634/b17eca8065380cd7eaeb79a4a144ad3458828186?fr=lemma&ct=cover)
 
-而单靠人们自身的感觉器官，在研究
 
-[自然现象](https://baike.baidu.com/item/%E8%87%AA%E7%84%B6%E7%8E%B0%E8%B1%A1)
+
+[自然现象](https://baike.baidu.com/item/自然现象)
 
 和规律以及生产活动中它们的功能就远远不够了。为适应这种情况，就需要传感器。因此可以说，传感器是人类五官的延长，又称之为电五官。
 
-[新技术革命](https://baike.baidu.com/item/%E6%96%B0%E6%8A%80%E6%9C%AF%E9%9D%A9%E5%91%BD)
+[新技术革命](https://baike.baidu.com/item/新技术革命)
 
 的到来，世界开始进入
 
-[信息时代](https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%97%B6%E4%BB%A3)
+[信息时代](https://baike.baidu.com/item/信息时代)
 
 。在利用信息的过程中，首先要解决的就是要获取准确可靠的信息，而传感器是获取自然和生产领域中信息的主要途径与手段。
 
@@ -30,7 +30,7 @@
 
 由此可见，
 
-[传感器技术](https://baike.baidu.com/item/%E4%BC%A0%E6%84%9F%E5%99%A8%E6%8A%80%E6%9C%AF)
+[传感器技术](https://baike.baidu.com/item/传感器技术)
 
 在发展经济、推动社会进步方面的重要作用，是十分明显的。世界各国都十分重视这一领域的发展。相信不久的将来，传感器技术将会出现一个飞跃，达到与其重要地位相称的新水平。
 
