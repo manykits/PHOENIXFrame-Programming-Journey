@@ -18,7 +18,5 @@
 
 # PHOENIXFrame传感器
 
-PHOENIXFrame机器人套件内包含了一些经典的常用的传感器，他们是:
-
-
+PHOENIXFrame机器人套件内包含了23款经典的常用的传感器，他们是:
 
