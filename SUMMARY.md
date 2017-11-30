@@ -11,6 +11,7 @@
   * [逻辑守卫（编程）](luo-ji-shou-wei-ff08-bian-cheng-ff09.md)
     * [C/C++](luo-ji-shou-wei-ff08-bian-cheng-ff09/c++.md)
     * [Lua](luo-ji-shou-wei-ff08-bian-cheng-ff09/lua.md)
+    * [图形编程](luo-ji-shou-wei-ff08-bian-cheng-ff09/tu-xing-bian-cheng.md)
   * [边界护卫（传感器）](di-3-zhang-sao-chu-bian-jie-hu-wei.md)
     * [麦克风传感器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/mai-ke-feng-chuan-gan-qi-mo-kuai.md)
     * [红外循迹模块](di-3-zhang-sao-chu-bian-jie-hu-wei/hong-wai-xun-ji-mo-kuai.md)
@@ -45,6 +46,7 @@
       * 安卓
       * iOS
     * [激光雷达](hui-qu-de-lu/zhong-sheng/ji-guang-lei-da.md)
-    * [PhoenixCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
+    * [深度摄像头](hui-qu-de-lu/zhong-sheng/shen-du-she-xiang-tou.md)
+    * [PHOENIXCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
   * [满载而归（向着更远的方向前进）](hui-qu-de-lu/man-zai-er-gui.md)
 
