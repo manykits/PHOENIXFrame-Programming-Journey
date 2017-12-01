@@ -50,7 +50,6 @@ void loop()
   {
     digitalWrite(PinLed, HIGH);
     Serial.println("LOW");
-
 ```
 
 2.数字输出，使用DO
