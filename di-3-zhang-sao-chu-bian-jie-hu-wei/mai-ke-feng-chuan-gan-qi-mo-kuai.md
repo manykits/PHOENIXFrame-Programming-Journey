@@ -28,7 +28,7 @@
 1.模拟输出，使用AO：
 
 ```cpp
-int PinSensor = A5;
+int PinAO = A5;
 int PinLed = 13;
 
 void setup()
@@ -38,11 +38,14 @@ void setup()
 }
 void loop()
 {
-  int sensorValue = analogRead(PinSensor);    
+  int sensorValue = analogRead(PinAO);    
   digitalWrite(PinLed, HIGH);
   delay(sensorValue);
   digitalWrite(PinLed, LOW);
   delay(sensorValue);
+  
+  Serial.println(sensorValue, DEC);
+}
 ```
 
 2.数字输出，使用DO
