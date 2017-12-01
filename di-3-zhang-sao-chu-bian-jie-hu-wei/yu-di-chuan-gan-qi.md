@@ -33,10 +33,10 @@
 ## Arduino 代码
 
 ```cpp
-void setup(){  
+void setup()
+{  
   Serial.begin(9600);  
-}  
-
+}
 void loop()
 {  
   Serial.println(analogRead(A0));  
