@@ -28,28 +28,24 @@
 1.模拟输出，使用AO
 
 ```cpp
-int PinAO = A5; // 定义寻线传感器接口
-int PinLed = 13; // 定义LED 接口
-int Val = 0; // 定义数字变量val
+int PinAO = A5;
+int PinLed = 13;
 
 void setup()
 {
-  pinMode(PinLed, OUTPUT); // 定义LED 为输出接口
-  pinMode(PinAO, INPUT); // 定义寻线传感器为输出接口
+  pinMode(PinLed, OUTPUT);
   Serial.begin(9600);
 }
 void loop()
 {
-  Val = digitalRead(PinAO); // 将数字接口3的值读取赋给val
-  if (Val == HIGH) // 当寻线传感器检测有信号时，LED 闪烁
-  {
-    digitalWrite(PinLed, LOW);
-    Serial.println("HIGH");
-  }
-  else
-  {
-    digitalWrite(PinLed, HIGH);
-    Serial.println("LOW");
+  int sensorValue = analogRead(PinAO);    
+  digitalWrite(PinLed, HIGH);
+  delay(sensorValue);
+  digitalWrite(PinLed, LOW);
+  delay(sensorValue);
+
+  Serial.println(sensorValue, DEC);
+}
 ```
 
 2.数字输出，使用DO
