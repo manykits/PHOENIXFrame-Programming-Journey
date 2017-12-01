@@ -29,13 +29,15 @@
 ## Arduino 代码
 
 ```cpp
+int PinAO = A5;
+
 void setup()
 {
   Serial.begin(9600);
 }
 void loop()
 {
-  Serial.println(analogRead(A0));
+  Serial.println(analogRead(PinAO));
   delay(100);
 }
 ```
