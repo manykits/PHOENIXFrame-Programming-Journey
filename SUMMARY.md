@@ -7,7 +7,7 @@
   * [冒险的呼唤](mao-xian-de-zhao-hu.md)
   * [与智者相遇](di-1-zhang-shi-ming-zhao-huan/yu-zhi-zhe-xiang-yu.md)
 * [第2章 踏上征程](chapter1.md)
-  * [第一个极限（三轮车）](di-yi-ge-ji-xian.md)
+  * [第一个极限（ARDUINO三轮车）](di-yi-ge-ji-xian.md)
     * [Arduino](di-yi-ge-ji-xian/arduino.md)
     * [电机驱动](di-yi-ge-ji-xian/dian-ji-qu-dong.md)
     * [蓝牙](di-yi-ge-ji-xian/lan-ya.md)
