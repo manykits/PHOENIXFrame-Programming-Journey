@@ -53,22 +53,23 @@ void loop()
 2.模拟输出：
 
 ```cpp
-int sensorPin = A5; 
-int ledPin = 13;
+int PinSensor = A5;
+int PinLed = 13;
 
 void setup()
 {
- pinMode(ledPin, OUTPUT); 
- Serial.begin(9600);
+  pinMode(PinLed, OUTPUT);
+  Serial.begin(9600);
 }
 void loop()
 {
- sensorValue = analogRead(sensorPin);    
- digitalWrite(ledPin, HIGH);  
- delay(sensorValue);
- digitalWrite(ledPin, LOW);  
- delay(sensorValue);
- Serial.println(sensorValue, DEC);  
+  int sensorValue = analogRead(PinSensor);    
+  digitalWrite(PinLed, HIGH);
+  delay(sensorValue);
+  digitalWrite(PinLed, LOW);
+  delay(sensorValue);
+  
+  Serial.println(sensorValue, DEC);
 }
 ```
 
