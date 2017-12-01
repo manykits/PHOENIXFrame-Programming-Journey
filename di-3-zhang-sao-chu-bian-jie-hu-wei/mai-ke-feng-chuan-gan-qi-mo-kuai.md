@@ -43,7 +43,7 @@ void loop()
   delay(sensorValue);
   digitalWrite(PinLed, LOW);
   delay(sensorValue);
-  
+
   Serial.println(sensorValue, DEC);
 }
 ```
@@ -51,8 +51,8 @@ void loop()
 2.数字输出，使用DO
 
 ```cpp
-int PinLed = 13;
 int PinDO = A5;
+int PinLed = 13;
 int Val = 0;
 void setup()
 {
