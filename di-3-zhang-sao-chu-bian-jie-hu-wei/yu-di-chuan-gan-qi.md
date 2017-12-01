@@ -26,7 +26,7 @@
 
 ## 连接图
 
-![](/assets/v3.png)
+![](/assets/v31.png)
 
 ## Arduino 代码
 
