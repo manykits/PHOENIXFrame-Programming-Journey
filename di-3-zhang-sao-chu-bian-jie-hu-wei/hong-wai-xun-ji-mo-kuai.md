@@ -1,5 +1,9 @@
 ## 红外循迹模块
 
+![](/assets/循迹模块1.png)
+
+
+
 ```cpp
 int Led=13;//定义LED 接口
 int buttonpin=3; //定义寻线传感器接口 
