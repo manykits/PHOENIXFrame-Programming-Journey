@@ -1,5 +1,7 @@
 ## 麦克风传感器模块
 
+
+
 ## 使用方法
 
 模块有2个输出
@@ -55,8 +57,6 @@ void loop()
  Serial.println(sensorValue, DEC);  
 }
 ```
-
-
 
 
 
