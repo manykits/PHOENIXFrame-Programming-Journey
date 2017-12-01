@@ -28,24 +28,28 @@
 1.数字输出，使用DO
 
 ```cpp
-int led = 13;
-int buttonpin = 3;
-int val;
+int PinLed = 13;
+int PinDO = A5;
+int Val = 0;
 void setup()
 {
-  pinMode(Led,OUTPUT);//定义LED 为输出接口
-  pinMode(buttonpin,INPUT);//定义传感器D0为输出
+  pinMode(PinLed,OUTPUT); //定义LED 为输出接口
+  pinMode(PinDO,INPUT); //定义传感器D0为输出
+  Serial.begin(9600);
 }
 void loop()
 {
-  val=digitalRead(buttonpin); 
-  if(val==HIGH)//当声音检测模块检测有信号时，LED 闪烁
+  Val = digitalRead(PinDO);
+  if (Val == HIGH) //当声音检测模块检测有信号时，LED亮
   {
-    digitalWrite(Led,HIGH) ;
+    digitalWrite(PinLed, LOW) ;
+    Serial.println("Recved HIGH");
   }
   else
   {
-    digitalWrite(Led,LOW) ;
+    digitalWrite(PinLed, HIGH) ;
+    Serial.println("Recved LOW");
+    delay(1000);
   }
 }
 ```
@@ -68,7 +72,7 @@ void loop()
   delay(sensorValue);
   digitalWrite(PinLed, LOW);
   delay(sensorValue);
-  
+
   Serial.println(sensorValue, DEC);
 }
 ```
