@@ -26,6 +26,8 @@
 
 ## 连接图
 
+![](/assets/v3.png)
+
 ## Arduino 代码
 
 ```cpp
