@@ -25,7 +25,7 @@
 
 ## Arduino 代码
 
-1.模拟输出，使用A0：
+1.模拟输出，使用AO：
 
 ```cpp
 int PinSensor = A5;
@@ -43,8 +43,6 @@ void loop()
   delay(sensorValue);
   digitalWrite(PinLed, LOW);
   delay(sensorValue);
-
-
 ```
 
 2.数字输出，使用DO
