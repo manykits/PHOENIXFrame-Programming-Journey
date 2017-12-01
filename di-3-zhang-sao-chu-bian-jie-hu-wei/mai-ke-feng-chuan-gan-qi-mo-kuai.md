@@ -25,7 +25,29 @@
 
 ## Arduino 代码
 
-1.数字输出，使用DO
+1.模拟输出，使用A0：
+
+```cpp
+int PinSensor = A5;
+int PinLed = 13;
+
+void setup()
+{
+  pinMode(PinLed, OUTPUT);
+  Serial.begin(9600);
+}
+void loop()
+{
+  int sensorValue = analogRead(PinSensor);    
+  digitalWrite(PinLed, HIGH);
+  delay(sensorValue);
+  digitalWrite(PinLed, LOW);
+  delay(sensorValue);
+
+
+```
+
+2.数字输出，使用DO
 
 ```cpp
 int PinLed = 13;
