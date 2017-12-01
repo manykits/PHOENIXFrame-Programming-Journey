@@ -56,3 +56,41 @@ PHOENIXFrame机器人套件内包含了23款经典的常用的传感器，他们
 
 游戏摇杆控制杆传感器
 
+![](/assets/yaogan.png)
+
+有源蜂鸣器模块
+
+![](/assets/youyuanfengming.png)
+
+无源蜂鸣器模块
+
+![](/assets/wuyuanfengmingqi.png)
+
+轻触开关模块
+
+![](/assets/qingchukaiguan.png)
+
+激光头传感器模块
+
+![](/assets/jiguangtou.png)
+
+人体红外感应模块
+
+![](/assets/renti.png)
+
+旋转编码器模块
+
+![](/assets/xuanzhuan.png)
+
+4位数码管显示模块
+
+![](/assets/4weishuma.png)
+
+RGB LED模块
+
+![](/assets/RGBLED.png)
+
+土壤湿度计检测模块
+
+![](/assets/turangshidu.png)
+
