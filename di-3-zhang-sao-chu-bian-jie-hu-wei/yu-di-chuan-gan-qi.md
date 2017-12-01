@@ -44,7 +44,5 @@ void loop()
 
 ## 运行结果
 
-![](/assets/result_yudi.png)
-
-
+![](/assets/result_yudi1.png)
 
