@@ -24,35 +24,35 @@ PHOENIXFrame机器人套件内包含了23款经典的常用的传感器，他们
 
 麦克风传感器模块
 
-![](/assets/麦克风传感器1.png)![](/assets/麦克风传感器2.png)
+![](/assets/麦克风传感器1.png)
 
 雨滴传感器
 
-![](/assets/雨滴传感器1.png)![](/assets/雨滴传感器2.png)![](/assets/雨滴传感器3.png)
+![](/assets/雨滴传感器1.png)
 
 红外循迹模块
 
-![](/assets/循迹模块1.png)![](/assets/循迹模块2.png)
+![](/assets/循迹模块1.png)
 
 红外无限遥控套件
 
-![](/assets/红外无限遥控套件1.png)![](/assets/红外无限遥控套件2.png)![](/assets/红外无限遥控套件3.png)
+![](/assets/红外无限遥控套件1.png)
 
 数字温湿度传感器
 
-![](/assets/温湿度传感器1.png)![](/assets/温湿度传感器2.png)![](/assets/温湿度传感器3.png)
+![](/assets/温湿度传感器1.png)
 
 继电器模块
 
-![](/assets/继电器模块1.png)![](/assets/继电器模块2.png)
+![](/assets/继电器模块1.png)
 
 七彩自动闪烁LED模块
 
-![](/assets/七彩自动闪烁LED模块1.png)![](/assets/七彩自动闪烁LED模块2.png)![](/assets/七彩自动闪烁LED模块3.png)
+![](/assets/七彩自动闪烁LED模块1.png)
 
 双色LED模块
 
-![](/assets/双色LED模块1.png)![](/assets/双色LEG模块2.png)
+![](/assets/双色LED模块1.png)
 
 游戏摇杆控制杆传感器
 
