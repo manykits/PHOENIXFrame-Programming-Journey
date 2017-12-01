@@ -1,6 +1,6 @@
 ## 面包板
 
-![](/assets/import.png)
+
 
 ## 连接图
 
