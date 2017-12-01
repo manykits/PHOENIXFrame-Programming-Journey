@@ -74,28 +74,5 @@ void loop()
 }
 ```
 
-2.模拟输出：
-
-```cpp
-int PinSensor = A5;
-int PinLed = 13;
-
-void setup()
-{
-  pinMode(PinLed, OUTPUT);
-  Serial.begin(9600);
-}
-void loop()
-{
-  int sensorValue = analogRead(PinSensor);    
-  digitalWrite(PinLed, HIGH);
-  delay(sensorValue);
-  digitalWrite(PinLed, LOW);
-  delay(sensorValue);
-
-  Serial.println(sensorValue, DEC);
-}
-```
-
 
 
