@@ -27,62 +27,95 @@ DHT11 数字温湿度传感器是一款含有已校准数字信号输出的温�
 # Arduino 代码
 
 ```cpp
-int PinDH = 8;
-byte dat[5];
-byte ReadData()
+#include "dht11.h"
+
+dht11 DHT11;
+
+double Fahrenheit(double celsius) 
 {
-  byte data;
-  for(int i=0; i<8; i++)
-  {
-    if(digitalRead(PinDH) == LOW)
-    {
-      while(digitalRead(PinDH) == LOW); //等待 50us；
-      delayMicroseconds(30); //判断高电平的持续时间，以判定数据是‘0’还是‘1’；
-      if(digitalRead(PinDH) == HIGH)
-      data |= (1<<(7-i)); //高位在前，低位在后；
-      while(digitalRead(PinDH) == HIGH); //数据‘1’，等待下一位的接收；
-    }
-  }
-  return data;
+    return 1.8 * celsius + 32;
+}   
+
+double Kelvin(double celsius)
+{
+    return celsius + 273.15;
+}    
+
+double dewPoint(double celsius, double humidity)
+{
+    double A0= 373.15/(273.15 + celsius);
+    double SUM = -7.90298 * (A0-1);
+    SUM += 5.02808 * log10(A0);
+    SUM += -1.3816e-7 * (pow(10, (11.344*(1-1/A0)))-1) ;
+    SUM += 8.1328e-3 * (pow(10,(-3.49149*(A0-1)))-1) ;
+    SUM += log10(1013.246);
+    double VP = pow(10, SUM-3) * humidity;
+    double T = log(VP/0.61078);   // temp var
+    return (241.88 * T) / (17.558-T);
 }
 
-void StartTest()
+double dewPointFast(double celsius, double humidity)
 {
-  digitalWrite(PinDH,LOW); //拉低总线，发开始信号；
-  delay(30); //延时要大于 18ms，以便 DHT11 能检测到开始信号；
-  digitalWrite(PinDH,HIGH);
-  delayMicroseconds(40); //等待 DHT11 响应；
-  pinMode(PinDH,INPUT);
-  while(digitalRead(PinDH) == HIGH);
-  delayMicroseconds(80); //DHT11 发出响应，拉低总线 80us；
-  if(digitalRead(PinDH) == LOW);
-  delayMicroseconds(80); //DHT11 拉高总线 80us 后开始发送数据；
-  for(int i=0;i<4;i++) //接收温湿度数据，校验位不考虑；
-  dat[i] = ReadData();
-  pinMode(PinDH,OUTPUT);
-  digitalWrite(PinDH,HIGH); //发送完一次数据后释放总线，等待主机的下一次开始信号；
+    double a = 17.271;
+    double b = 237.7;
+    double temp = (a * celsius) / (b + celsius) + log(humidity/100);
+    double Td = (b * temp) / (a - temp);
+    return Td;
 }
+
+
+#define DHT11PIN 2
 
 void setup()
 {
   Serial.begin(9600);
-  pinMode(PinDH, OUTPUT);
+  Serial.println("DHT11 TEST PROGRAM ");
+  Serial.print("LIBRARY VERSION: ");
+  Serial.println(DHT11LIB_VERSION);
+  Serial.println();
 }
 
 void loop()
 {
-  StartTest();
-  Serial.print("Current humdity = ");
-  Serial.print(dat[0], DEC); // 显示湿度的整数位；
-  Serial.print('.');
-  Serial.print(dat[1],DEC);  // 显示湿度的小数位；
-  Serial.println('%');
-  Serial.print("Current temperature = ");
-  Serial.print(dat[2], DEC); // 显示温度的整数位；
-  Serial.print('.');
-  Serial.print(dat[3],DEC); // 显示温度的小数位；
-  Serial.println('C');
-  delay(700);
+  Serial.println("\n");
+
+  int chk = DHT11.read(DHT11PIN);
+
+  Serial.print("Read sensor: ");
+  switch (chk)
+  {
+    case DHTLIB_OK: 
+        Serial.println("OK"); 
+        break;
+    case DHTLIB_ERROR_CHECKSUM: 
+        Serial.println("Checksum error"); 
+        break;
+    case DHTLIB_ERROR_TIMEOUT: 
+        Serial.println("Time out error"); 
+        break;
+    default: 
+        Serial.println("Unknown error"); 
+        break;
+  }
+
+  Serial.print("Humidity (%): ");
+  Serial.println((float)DHT11.humidity, 2);
+
+  Serial.print("Temperature (oC): ");
+  Serial.println((float)DHT11.temperature, 2);
+
+  Serial.print("Temperature (oF): ");
+  Serial.println(Fahrenheit(DHT11.temperature), 2);
+
+  Serial.print("Temperature (K): ");
+  Serial.println(Kelvin(DHT11.temperature), 2);
+
+  Serial.print("Dew Point (oC): ");
+  Serial.println(dewPoint(DHT11.temperature, DHT11.humidity));
+
+  Serial.print("Dew PointFast (oC): ");
+  Serial.println(dewPointFast(DHT11.temperature, DHT11.humidity));
+  delay(2000);
 }
 ```
 
