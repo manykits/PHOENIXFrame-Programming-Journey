@@ -1,5 +1,7 @@
 继电器模块
 
+![](/assets/jidianqi1.png)
+
 ## 特点
 
 输出驱动能力：250VAC-10A、125VAC-10A、30VDC-10A、28VDC-10A
