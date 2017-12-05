@@ -25,25 +25,22 @@ Y,X,B引脚接到控制器的A0,A1,A2口
 ## Arduino 代码
 
 ```cpp
-int sensorPin = 5; 
-int value = 0; 
-void setup() 
-{
-    pinMode(7, OUTPUT); 
-    Serial.begin(9600); 
-}
-void loop() 
-{ 
-    value = analogRead(0); 
-    Serial.print("X:");
-    Serial.print(value, DEC); 
-    value = analogRead(1); 
-    Serial.print(" | Y:"); 
-    Serial.print(value, DEC);
-    value = digitalRead(7); 
-    Serial.print(" | Z: "); 
-    Serial.println(value, DEC); 
-    delay(100);
+int X;
+int Y;
+int B;
+void setup()
+{   
+  Serial.begin(9600);
+} 
+void loop()
+{           
+  X = analogRead(A0);      //读取A0口模拟值
+  Y = analogRead(A1);      //读取A1口模拟值
+  B = analogRead(A2);      //读取A2口模拟值
+  Serial.println(X);
+  Serial.println(Y);
+  Serial.println(B);
+  delay(1000);
 }
 ```
 
