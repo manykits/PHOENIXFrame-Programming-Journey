@@ -14,7 +14,19 @@
 ## Arduino 代码
 
 ```cpp
-// 接上正负极即可
+int PinLED = 8;
+void setup()
+{
+  pinMode(PinLED, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(PinLED, HIGH);
+  delay(500);
+  digitalWrite(PinLED, LOW);
+  delay(500);
+}
 ```
 
 
