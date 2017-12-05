@@ -24,7 +24,7 @@
     * [麦克风传感器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/mai-ke-feng-chuan-gan-qi-mo-kuai.md)
     * [雨滴传感器](di-3-zhang-sao-chu-bian-jie-hu-wei/yu-di-chuan-gan-qi.md)
     * [红外循迹模块](di-3-zhang-sao-chu-bian-jie-hu-wei/hong-wai-xun-ji-mo-kuai.md)
-    * [数字温湿度传感器](di-3-zhang-sao-chu-bian-jie-hu-wei/shu-zi-wen-shi-du-chuan-gan-qi.md)
+    * [温湿度传感器](di-3-zhang-sao-chu-bian-jie-hu-wei/shu-zi-wen-shi-du-chuan-gan-qi.md)
     * [继电器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/ji-dian-qi-mo-kuai.md)
     * [七彩自动闪烁LED模块](di-3-zhang-sao-chu-bian-jie-hu-wei/qi-cai-zi-dong-shan-shuo-led-mo-kuai.md)
     * [双色LED模块](di-3-zhang-sao-chu-bian-jie-hu-wei/shuang-se-led-mo-kuai.md)
