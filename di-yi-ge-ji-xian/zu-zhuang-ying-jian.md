@@ -4,11 +4,9 @@
 
 1组装底盘
 
-
-
 2.安装TT马达
 
-
-
 3.安装Arduino和电机驱动
+
+4.上传PhoenixFrameFireware
 
