@@ -20,6 +20,8 @@
 
 ## 连接图
 
+![](/assets/jidianqilianjie.png)
+
 输入端
 
 +：控制信号正级
