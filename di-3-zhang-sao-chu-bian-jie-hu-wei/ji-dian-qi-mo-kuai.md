@@ -1,6 +1,6 @@
 继电器模块
 
-![](/assets/jidianqi1.png)
+![](/assets/继电器模块3.png)
 
 ## 特点
 
@@ -21,6 +21,8 @@
 ## 连接图
 
 ![](/assets/jidianqilianjie.png)
+
+![](/assets/继电器链接图.png)
 
 输入端
 
