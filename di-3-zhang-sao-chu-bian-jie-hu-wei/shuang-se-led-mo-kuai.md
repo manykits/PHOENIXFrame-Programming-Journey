@@ -17,35 +17,35 @@
 ## Arduino 代码
 
 ```cpp
-int Pin1 = 7; //双色LED管脚中间  
-int Pin2 = 8; //双色LED管脚S
+int Pin1 = 7; // 双色LED管脚中间  
+int Pin2 = 8; // 双色LED管脚S
 
 void setup() 
 {   
-  pinMode(Pin1, OUTPUT); //设置管脚1为输出状态  
-  pinMode(Pin2, OUTPUT); //设置管脚2为输出状态  
+  pinMode(Pin1, OUTPUT); // 设置管脚1为输出状态  
+  pinMode(Pin2, OUTPUT); // 设置管脚2为输出状态  
 }  
 
 void loop()
 {   
   //熄灭  
-  digitalWrite(Pin1, LOW);  //设置管脚1为LOW  
-  digitalWrite(Pin2, LOW);  //设置管脚3为LOW  
-  delay(1000); //等待1000毫秒  
+  digitalWrite(Pin1, LOW);  // 设置管脚1为LOW  
+  digitalWrite(Pin2, LOW);  // 设置管脚3为LOW  
+  delay(1000); // 等待1000毫秒  
 
   //颜色1亮  
-  digitalWrite(Pin1, HIGH);  //设置管脚1为HIGH  
-  digitalWrite(Pin2, LOW);  //设置管脚3为LOW  
+  digitalWrite(Pin1, HIGH);  // 设置管脚1为HIGH  
+  digitalWrite(Pin2, LOW);  // 设置管脚3为LOW  
   delay(1000); //等待1000毫秒  
 
-  //颜色2亮  
-  digitalWrite(Pin1, LOW);  //设置管脚1为LOW  
-  digitalWrite(Pin2, HIGH);  //设置管脚3为HIGH  
+  // 颜色2亮  
+  digitalWrite(Pin1, LOW);  // 设置管脚1为LOW  
+  digitalWrite(Pin2, HIGH);  // 设置管脚3为HIGH  
   delay(1000); //等待1000毫秒  
 
-  //颜色1亮 + 颜色2亮 （形成混合色）  
-  digitalWrite(Pin1, HIGH);//设置管脚1为HIGH  
-  digitalWrite(Pin2, HIGH);  //设置管脚3为HIGH  
+  // 颜色1亮 + 颜色2亮 （形成混合色）  
+  digitalWrite(Pin1, HIGH);// 设置管脚1为HIGH  
+  digitalWrite(Pin2, HIGH);  // 设置管脚3为HIGH  
   delay(1000); //等待1000毫秒  
 }
 ```
