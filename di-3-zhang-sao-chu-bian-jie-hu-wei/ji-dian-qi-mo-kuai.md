@@ -34,8 +34,6 @@ COM：继电器通电公用接口
 
 NO：继电器常开接口，继电器吸合前悬空，吸合后与COM短接
 
-![](/assets/jidianqi.png)
-
 # Arduino 代码
 
 ```cpp
