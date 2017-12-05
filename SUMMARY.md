@@ -24,7 +24,6 @@
     * [麦克风传感器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/mai-ke-feng-chuan-gan-qi-mo-kuai.md)
     * [雨滴传感器](di-3-zhang-sao-chu-bian-jie-hu-wei/yu-di-chuan-gan-qi.md)
     * [红外循迹模块](di-3-zhang-sao-chu-bian-jie-hu-wei/hong-wai-xun-ji-mo-kuai.md)
-    * [红外无线遥控套件](di-3-zhang-sao-chu-bian-jie-hu-wei/hong-wai-wu-xian-yao-kong-tao-jian.md)
     * [数字温湿度传感器](di-3-zhang-sao-chu-bian-jie-hu-wei/shu-zi-wen-shi-du-chuan-gan-qi.md)
     * [继电器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/ji-dian-qi-mo-kuai.md)
     * [七彩自动闪烁LED模块](di-3-zhang-sao-chu-bian-jie-hu-wei/qi-cai-zi-dong-shan-shuo-led-mo-kuai.md)
@@ -42,6 +41,7 @@
     * [电源扩展板](di-3-zhang-sao-chu-bian-jie-hu-wei/dian-yuan-kuo-zhan-ban.md)
     * 迷你舵机
     * [超声波模块](di-3-zhang-sao-chu-bian-jie-hu-wei/chao-sheng-bo.md)
+    * [红外无线遥控套件](di-3-zhang-sao-chu-bian-jie-hu-wei/hong-wai-wu-xian-yao-kong-tao-jian.md)
   * [接近深层洞穴\(履带坦克车\)](jie-jin-shen-ceng-dong-xue.md)
   * [严峻的考研（装上履带吧）](yan-jun-de-kao-yan.md)
   * [获得奖励](huo-de-jiang-li.md)
