@@ -28,7 +28,7 @@ S：控制信号
 
 输出端
 
-NO：
+NO：继电器常开接口，继电器吸合前悬空，xihe
 
 ![](/assets/jidianqi.png)
 
