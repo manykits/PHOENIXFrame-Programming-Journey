@@ -10,3 +10,5 @@
 
 4.上传PhoenixFrameFireware
 
+5.打开APP程序，进行遥控
+
