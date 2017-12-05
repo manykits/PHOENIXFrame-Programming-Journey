@@ -41,7 +41,19 @@ NO：继电器常开接口，继电器吸合前悬空，吸合后与COM短接
 # Arduino 代码
 
 ```cpp
+int PinJDQ = 8; 
 
+void setup()
+{
+  pinMode(PinJDQ, OUTPUT); 
+} 
+
+void loop(){
+  digitalWrite(PinJDQ, HIGH);
+  delay(2000);
+  digitalWrite(PinJDQ, LOW); //LOW to poweroff the LED light on jidianqi
+  delay(5000);
+}
 ```
 
 
