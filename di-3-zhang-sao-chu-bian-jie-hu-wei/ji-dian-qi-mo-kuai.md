@@ -24,7 +24,7 @@
 
 -：控制信号负级
 
-
+S：控制信号
 
 ![](/assets/jidianqi.png)
 
