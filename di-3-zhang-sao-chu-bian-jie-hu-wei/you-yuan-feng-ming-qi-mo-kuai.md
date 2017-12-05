@@ -14,25 +14,6 @@
 ## Arduino 代码
 
 ```cpp
-// 使用模拟量控制蜂鸣器显示频率
-int speakerPin = 8;//控制喇叭的引脚 
-int potPin = 4;//控制可调电阻器的引脚 
-int value = 0;
-void setup() 
-{
- pinMode(speakerPin, OUTPUT);
-}
-void loop() 
-{ 
-  value = analogRead(potPin); //读电阻器引脚的值 
-  digitalWrite(speakerPin, HIGH); 
-  delay(value); //调节喇叭响的时间； 
-  digitalWrite(speakerPin, LOW);  
-  delay(value); //调节喇叭不响的时间； 
-}
-```
-
-```cpp
 // 我们加了一个按键开关控制蜂鸣器，这样我们就能模拟一个简单的门铃，当按键被按下时喇叭就可以发出响声了。
 const int buttonPin = 4;     // 按键引脚; 
 const int speakerPin =  8;    //蜂鸣器引脚; 
