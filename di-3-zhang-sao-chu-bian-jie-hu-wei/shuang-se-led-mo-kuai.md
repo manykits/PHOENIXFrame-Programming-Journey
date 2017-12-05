@@ -15,31 +15,37 @@
 ## Arduino 代码
 
 ```cpp
-//Arduino test code: int redpin = 11;  
-// select the pin for the red LED
-int bluepin =10; // select the pin for the blueLED int val;
-void setup()
-{
- pinMode(redpin, OUTPUT); 
- pinMode(bluepin, OUTPUT);
- Serial.begin(9600); 
-}
+int Pin1 = 7; //双色LED管脚中间  
+int Pin2 = 8; //双色LED管脚S
+  
+void setup() 
+{   
+  pinMode(Pin1, OUTPUT); //设置管脚1为输出状态  
+  pinMode(Pin2, OUTPUT); //设置管脚2为输出状态  
+}  
+  
 void loop()
-{ 
- for(val=255; val>0; val--)
- {
-  analogWrite(11, val); 
-  analogWrite(10, 255-val);
-  delay(15);  
- }
- for(val=0; val<255; val++)
- {
-  analogWrite(11, val); 
-  analogWrite(10, 255-val); 
-  delay(15);  
- } 
- Serial.println(val, DEC);
-}
+{   
+  //熄灭  
+  digitalWrite(Pin1, LOW);  //设置管脚1为LOW  
+  digitalWrite(Pin2, LOW);  //设置管脚3为LOW  
+  delay(1000); //等待1000毫秒  
+  
+  //颜色1亮  
+  digitalWrite(Pin1, HIGH);  //设置管脚1为HIGH  
+  digitalWrite(Pin2, LOW);  //设置管脚3为LOW  
+  delay(1000); //等待1000毫秒  
+    
+  //颜色2亮  
+  digitalWrite(Pin1, LOW);  //设置管脚1为LOW  
+  digitalWrite(Pin2, HIGH);  //设置管脚3为HIGH  
+  delay(1000); //等待1000毫秒  
+  
+  //颜色1亮 + 颜色2亮 （形成混合色）  
+  digitalWrite(Pin1, HIGH);//设置管脚1为HIGH  
+  digitalWrite(Pin2, HIGH);  //设置管脚3为HIGH  
+  delay(1000); //等待1000毫秒  
+}  
 ```
 
 
