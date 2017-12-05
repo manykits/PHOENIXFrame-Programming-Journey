@@ -26,6 +26,10 @@
 
 S：控制信号
 
+输出端
+
+NO：
+
 ![](/assets/jidianqi.png)
 
 # Arduino 代码
