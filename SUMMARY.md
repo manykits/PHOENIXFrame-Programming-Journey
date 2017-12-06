@@ -6,8 +6,8 @@
   * [普通的世界](pu-tong-de-shi-jie.md)
   * [冒险的呼唤](mao-xian-de-zhao-hu.md)
   * [与智者相遇](di-1-zhang-shi-ming-zhao-huan/yu-zhi-zhe-xiang-yu.md)
-  * [222](222.md)
 * [第2章 踏上征程](chapter1.md)
+  * [Blink](blink.md)
   * [第一个极限（ARDUINO三轮车）](di-yi-ge-ji-xian.md)
     * [组装小车](di-yi-ge-ji-xian/zu-zhuang-ying-jian.md)
     * [电机驱动](di-yi-ge-ji-xian/dian-ji-qu-dong.md)
@@ -45,8 +45,6 @@
   * [接近深层洞穴\(履带坦克车\)](jie-jin-shen-ceng-dong-xue.md)
   * [严峻的考研（装上履带吧）](yan-jun-de-kao-yan.md)
   * [获得奖励](huo-de-jiang-li.md)
-  * Blink
-  * Blink
 * [第3章 王者归来](hui-qu-de-lu.md)
   * [衣锦还乡](hui-qu-de-lu/yi-jin-huan-xiang.md)
   * [重生（加上高级设备）](hui-qu-de-lu/zhong-sheng.md)
