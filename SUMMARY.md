@@ -8,6 +8,7 @@
   * [与智者相遇](di-1-zhang-shi-ming-zhao-huan/yu-zhi-zhe-xiang-yu.md)
 * [第2章 踏上征程](chapter1.md)
   * [Blink](blink.md)
+    * [初识Arduino](blink/chu-shiarduino.md)
   * [第一个极限（ARDUINO三轮车）](di-yi-ge-ji-xian.md)
     * [组装小车](di-yi-ge-ji-xian/zu-zhuang-ying-jian.md)
     * [电机驱动](di-yi-ge-ji-xian/dian-ji-qu-dong.md)
