@@ -2,8 +2,6 @@
 
 ![](/assets/qingchukaiguan.png)
 
-# 介绍
-
 ## Arduino 代码
 
 ```
