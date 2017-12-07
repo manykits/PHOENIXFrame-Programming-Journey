@@ -2,7 +2,7 @@
 
 ![](/assets/jiguangtou.png)
 
-# 介绍
+## 连接图
 
 ## Arduino 代码
 
