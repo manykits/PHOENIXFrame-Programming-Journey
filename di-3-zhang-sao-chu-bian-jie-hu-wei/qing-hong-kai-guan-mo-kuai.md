@@ -2,7 +2,7 @@
 
 ![](/assets/qingchukaiguan.png)
 
-
+按键是一种常用的控制电器[元件](http://bbs.elecfans.com/zhuti_yuanjian_1.html)，常用来接通或断开[电路](http://bbs.elecfans.com/zhuti_dianlu_1.html)，从而达到控制电机或者其他设备运行的开关。
 
 ## Arduino 代码
 
