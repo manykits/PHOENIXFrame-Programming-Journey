@@ -14,54 +14,17 @@
 ## Arduino 代码
 
 ```cpp
-// 我们加了一个按键开关控制蜂鸣器，这样我们就能模拟一个简单的门铃，当按键被按下时喇叭就可以发出响声了。
-const int buttonPin = 4;     // 按键引脚; 
-const int speakerPin =  8;    //蜂鸣器引脚; 
-int buttonState = 0;         // 读取按键引脚的一个值 
-void setup() 
-{ 
-  //设置按键引脚为输入模式，蜂鸣器引脚为输出模式； 
-  pinMode(speakerPin, OUTPUT);       
-  pinMode(buttonPin, INPUT);      
-} 
-void loop()
-{ 
-  // 读取按键一个初值，这里在电路中我接了是在默认高电平，所以初值为高； 
-  buttonState = digitalRead(buttonPin); 
-  if (buttonState == HIGH) 
-  {     
-    digitalWrite(speakerPin,LOW);
-  }  
-  else 
-  { 
-   //这里按键的值为低电平（也是按键被按下时）；蜂鸣器响起 
-    digitalWrite(speakerPin,HIGH); 
-  } 
-}
-```
-
-```cpp
-// 这个程序是利用 PWM（脉冲宽度调节）控制蜂鸣器的，下载到单片机可以听到蜂鸣器发出不同的音调，
-// 我们只要根据相关曲目调节出音符(0,1,2,3,4,5,6,7)就可以让蜂鸣器唱歌了。
-int speakerPin = 9; 
-byte song_table[] = {  30,  30,  30,  40,  50,  60,  70,  80,  90, 100,110, 120, 130, 140, 
-150, 160, 170, 180, 190, 200, 210, 220, 230, 240, 250, 250, 240, 230, 220, 210, 200, 190, 180, 
-170, 160, 150, 140, 130, 120, 110, 100,  90,  80,  70,  60,  50,  40,  30,  30,  30 }; 
-int MAX = 50; 
-int count = 0; 
+const int Pin = 8; 
 void setup()
 {
-  pinMode(speakerPin, OUTPUT); 
-} 
-void loop() 
-{ 
-  analogWrite(speakerPin, song_table[count]); 
-  count ++; 
-  if (count > MAX)
-  { 
-    count = 0; 
-  } 
-  delay(50); 
+  pinMode(Pin, OUTPUT);
+}
+void loop()
+{
+  digitalWrite(Pin, LOW);
+  delay(1000);
+  digitalWrite(Pin, HIGH);
+  delay(1000);
 }
 ```
 
