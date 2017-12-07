@@ -1,5 +1,7 @@
 # 无源蜂鸣器模块
 
+![](/assets/wuyuanfengmingqi.png)
+
 # 介绍
 
 （一）蜂鸣器的介绍
@@ -16,31 +18,42 @@
 
 2．电磁式蜂鸣器  电磁式蜂鸣器由振荡器、电磁线圈、磁铁、振动膜片及外壳等组成。 接通电源后，振荡器产生的音频信号电流通过电磁线圈，使电磁线圈产生磁场。振 动膜片在电磁线圈和磁铁的相互作用下，周期性地振动发声。
 
+（三）有源蜂鸣器与无源蜂鸣器有什么区别
+
+这里的“源”不是指电源。而是指震荡源。 也就是说，有源蜂鸣器内部带震荡源，所以只 要一通电就会叫。 而无源内部不带震荡源，所以如果用直流信号无法令其鸣叫。必须用2K~5K的方波去 驱动它。 有源蜂鸣器往往比无源的贵，就是因为里面多个震荡电路。 无源蜂鸣器的优点是：1．便宜，2．声音频率可控，可以做出“多来米发索拉西”的效 果。3．在一些特例中，可以和LED复用一个控制口 有源蜂鸣器的优点是：程序控制方便 。
+
+## 连接图
+
+![](/assets/无源连接.png)
+
 ## Arduino 代码
 
 ```cpp
 int buzzer=8; //设置控制蜂鸣器的数字IO脚
 void setup()
 {
-  pinMode(buzzer,OUTPUT); //设置数字IO脚模式，OUTPUT为辒出 
+pinMode(buzzer,OUTPUT); //设置数字IO脚模式，OUTPUT为辒出 
 }
 void loop()
 {
-  char i,j; //定义变量
-  for(i=0;i<80;i++) //出一个频率的声音
+ char i,j; //定义变量
+ while(1) 
+ {
+  for(i=0;i<80;i++) //辒出一个频率的声音 
   {
-    digitalWrite(buzzer,HIGH);//发声音
-    delay(1);//延时1ms
-    digitalWrite(buzzer,LOW);//不发声音
-    delay(1);//延时ms
+   digitalWrite(buzzer,HIGH);//发声音
+   delay(1);//延时1ms 
+   digitalWrite(buzzer,LOW);//不发声音
+   delay(1);//延时ms 
   }
-  for(i=0;i<100;i++)//出另一个频率癿声音
+  for(i=0;i<100;i++)//辒出另一个频率癿声音 
   {
-    digitalWrite(buzzer,HIGH);//发声音
-    delay(2);//延时2ms
-    digitalWrite(buzzer,LOW);//不发声音
-    delay(2);//延时2ms
-  }
+   digitalWrite(buzzer,HIGH);//发声音 
+   delay(2);//延时2ms
+   digitalWrite(buzzer,LOW);//不发声音
+   delay(2);//延时2ms 
+  } 
+ }
 }
 ```
 

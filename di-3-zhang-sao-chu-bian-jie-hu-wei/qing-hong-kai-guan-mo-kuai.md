@@ -1,6 +1,6 @@
 # 轻触开关模块
 
-
+![](/assets/qingchukaiguan.png)
 
 # 介绍
 
