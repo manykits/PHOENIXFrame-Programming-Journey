@@ -8,9 +8,30 @@
 
 ## 连接图
 
-
-
 ## Arduino 代码
+
+```
+#include "PXFNewPing.h"
+
+int PinTrig = 7;
+int PinEcho = 8;
+
+#define MAX_DISTANCE 200
+NewPing newPin(PinTrig, PinEcho, MAX_DISTANCE); // NewPing setup of pins and maximum distance.
+
+void setup()
+{
+  Serial.begin(9600);
+}
+
+void loop() 
+{
+  delay(30.0);
+  int dist = newPin.ping_cm();
+  Serial.print(dist);
+  Serial.println(" cm");
+}
+```
 
 
 
