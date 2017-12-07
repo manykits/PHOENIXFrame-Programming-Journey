@@ -10,7 +10,7 @@
 
 ## Arduino 代码
 
-```
+```cpp
 #include "PXFNewPing.h"
 
 int PinTrig = 7;
