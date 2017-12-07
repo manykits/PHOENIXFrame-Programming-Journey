@@ -2,8 +2,6 @@
 
 ![](/assets/超声波模块.png)
 
-# 介绍
-
 ## Arduino 代码
 
 
