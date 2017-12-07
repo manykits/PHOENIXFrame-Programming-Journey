@@ -1,5 +1,7 @@
 # 轻触开关模块
 
+![](/assets/qingchukaiguan.png)
+
 # 介绍
 
 ## Arduino 代码

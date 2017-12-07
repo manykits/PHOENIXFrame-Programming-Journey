@@ -1,5 +1,7 @@
 # 激光头传感器模块
 
+![](/assets/jiguangtou.png)
+
 # 介绍
 
 ## Arduino 代码
