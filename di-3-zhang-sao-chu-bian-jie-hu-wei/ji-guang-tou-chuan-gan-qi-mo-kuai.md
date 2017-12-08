@@ -4,7 +4,7 @@
 
 ## 连接图
 
-
+![](/assets/激光头连接.png)
 
 ## Arduino 代码
 
