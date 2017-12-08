@@ -6,7 +6,7 @@
 
 ## 连接图
 
-Switch（开关）、CLK是Clock（时钟）、DT是Datano 代码
+Switch（开关）、CLK是Clock（时钟）、DT是Data
 
 ## ArduiSW应该是
 
