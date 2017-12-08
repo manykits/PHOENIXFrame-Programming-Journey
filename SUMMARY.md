@@ -37,7 +37,6 @@
     * [4位数码管显示模块](di-3-zhang-sao-chu-bian-jie-hu-wei/4wei-shu-ma-guan-xian-shi-mo-kuai.md)
     * [人体红外感应模块](di-3-zhang-sao-chu-bian-jie-hu-wei/ren-ti-hong-wai-gan-ying-mo-kuai.md)
     * [旋转编码器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/xuan-zhuan-bian-ma-qi-mo-kuai.md)
-    * [杜邦线](di-3-zhang-sao-chu-bian-jie-hu-wei/du-bang-xian.md)
   * [接近深层洞穴\(履带坦克车\)](jie-jin-shen-ceng-dong-xue.md)
   * [严峻的考研（装上履带吧）](yan-jun-de-kao-yan.md)
   * [获得奖励](huo-de-jiang-li.md)
