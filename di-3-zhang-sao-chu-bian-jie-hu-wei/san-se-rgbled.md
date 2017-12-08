@@ -1,8 +1,14 @@
 # 三色RGB LED
 
+![](/assets/三色RGBLED.png)
+
+
+
 RGB三个针，分别接三个数字口，进行控制。通过控制各个引脚，调整RGB三个灯的输出达到控制整个颜色的效果。
 
 # 连线图
+
+![](/assets/三色RGB连接.png)
 
 ## Arduino 代码
 
