@@ -8,7 +8,7 @@
 
 ## Arduino 代码
 
-```
+```cpp
 int PinRed = 9;
 int PinGreen = 10;
 int PinBlue = 11;
