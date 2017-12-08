@@ -1,4 +1,4 @@
-# RGB LED模块
+# 三色RGBLED模块
 
 ![](/assets/RGBLED.png)
 

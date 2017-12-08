@@ -36,7 +36,7 @@
     * [4位数码管显示模块](di-3-zhang-sao-chu-bian-jie-hu-wei/4wei-shu-ma-guan-xian-shi-mo-kuai.md)
     * [人体红外感应模块](di-3-zhang-sao-chu-bian-jie-hu-wei/ren-ti-hong-wai-gan-ying-mo-kuai.md)
     * [旋转编码器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/xuan-zhuan-bian-ma-qi-mo-kuai.md)
-    * [RGB LED模块](di-3-zhang-sao-chu-bian-jie-hu-wei/rgb-ledmo-kuai.md)
+    * [三色RGBLED模块](di-3-zhang-sao-chu-bian-jie-hu-wei/rgb-ledmo-kuai.md)
     * [电源扩展板](di-3-zhang-sao-chu-bian-jie-hu-wei/dian-yuan-kuo-zhan-ban.md)
     * [迷你舵机](di-3-zhang-sao-chu-bian-jie-hu-wei/mi-ni-duo-ji.md)
     * [超声波模块](di-3-zhang-sao-chu-bian-jie-hu-wei/chao-sheng-bo.md)
