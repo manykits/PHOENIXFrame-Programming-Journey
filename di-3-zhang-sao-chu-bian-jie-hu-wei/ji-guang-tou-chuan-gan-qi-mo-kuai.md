@@ -2,6 +2,8 @@
 
 ![](/assets/jiguangtou.png)
 
+**工作电压： 5V  **
+
 ## 连接图
 
 +接5V
