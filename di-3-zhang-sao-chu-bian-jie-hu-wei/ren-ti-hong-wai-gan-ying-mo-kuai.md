@@ -2,7 +2,9 @@
 
 ![](/assets/renti.png)
 
-# 介绍
+# 特点
+
+
 
 ## Arduino 代码
 
