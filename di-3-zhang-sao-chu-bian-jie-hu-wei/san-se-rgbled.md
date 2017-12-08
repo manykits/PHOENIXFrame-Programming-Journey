@@ -1,36 +1,38 @@
 # 三色RGB LED
 
-舵机是一种位置（角度）伺服的驱动器，适用于那些需要角度不断变化并可以保持的控制系统。舵机是船舶上的一种大甲板机械。
+
 
 # 连线图
 
 ## Arduino 代码
 
 ```cpp
-#include <Servo.h> 
+int PinRed = 9;
+int PinGreen = 10;
+int PinBlue = 11;
 
-Servo myservo;  // 创建一个舵机控制对象
-int PinServer = 8;
-int pos = 0;    // 该变量用与存储舵机角度位置
+void setup()
+{
+  pinMode(PinRed, OUTPUT);
+  pinMode(PinGreen, OUTPUT);
+  pinMode(PinBlue, OUTPUT);
+}
 
-void setup() 
-{ 
-  myservo.attach(PinServer);  // 该舵机由arduino第九脚控制
-} 
+// constrain(amt，low，high)函数的工作过程是，如果值amt小于low，则返回low
+// 如果amt大于high，则返回high；否则，返回amt
+// 该函数一般可以用于将值归一化到某个区间内
+void colorRGB(int red, int green, int blue)
+{
+  analogWrite(PinRed, constrain(red,0,255));
+  analogWrite(PinGreen, constrain(green,0,255));
+  analogWrite(PinBlue, constrain(blue,0,255));
+}
 
-void loop() 
-{ 
-  for(pos = 0; pos < 180; pos += 1)  // 从0度到180度运动 
-  {
-    myservo.write(pos); // 指定舵机转向的角度
-    delay(15); // 等待15ms让舵机到达指定位置
-  } 
-
-  for(pos = 180; pos>=1; pos-=1)   //从180度到0度运动  
-  {                                
-    myservo.write(pos); // 指定舵机转向的角度 
-    delay(15); // 等待15ms让舵机到达指定位置 
-  } 
+void loop()
+{
+  // R:0-255 G:0-255 B:0-255
+  colorRGB(random(0,255),random(0,255),random(0,255));  
+  delay(500);
 }
 ```
 
