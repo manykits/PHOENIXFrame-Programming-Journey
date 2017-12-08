@@ -38,7 +38,7 @@
     * [人体红外感应模块](di-3-zhang-sao-chu-bian-jie-hu-wei/ren-ti-hong-wai-gan-ying-mo-kuai.md)
     * [旋转编码器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/xuan-zhuan-bian-ma-qi-mo-kuai.md)
     * [迷你舵机](di-3-zhang-sao-chu-bian-jie-hu-wei/mi-ni-duo-ji.md)
-    * [三色RGBLED](di-3-zhang-sao-chu-bian-jie-hu-wei/san-se-rgbled.md)
+    * [三色RGB LED](di-3-zhang-sao-chu-bian-jie-hu-wei/san-se-rgbled.md)
   * [接近深层洞穴\(履带坦克车\)](jie-jin-shen-ceng-dong-xue.md)
   * [严峻的考研（装上履带吧）](yan-jun-de-kao-yan.md)
   * [获得奖励](huo-de-jiang-li.md)
