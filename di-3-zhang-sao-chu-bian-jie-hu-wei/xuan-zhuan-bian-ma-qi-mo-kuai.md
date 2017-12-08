@@ -10,7 +10,7 @@
 
 Switch（开关）、CLK是Clock（时钟）、DT是Data（数据）
 
-## Arduino应该是
+## Arduino代码
 
 ```cpp
 int CLK = 2; //CLK->D2
@@ -32,7 +32,7 @@ void ClockChanged()
     Serial.println(count);
   }
 }
- 
+
  void setup()
 {
   pinMode(SW, INPUT);
@@ -42,7 +42,7 @@ void ClockChanged()
   attachInterrupt(interrupt0, ClockChanged, CHANGE); // 设置中断0的处理函数，电平变化触发
   Serial.begin(9600);
 }
-  
+
 void loop()
 {
   if (!digitalRead(SW) && count != 0) //读取到按钮按下并且计数值不为0时把计数器清零
