@@ -12,7 +12,7 @@
 
 ## 连接图
 
-![](/assets/v1.png)![](/assets/v2.png)
+![](/assets/v2.png)
 
 ## 使用方法
 
