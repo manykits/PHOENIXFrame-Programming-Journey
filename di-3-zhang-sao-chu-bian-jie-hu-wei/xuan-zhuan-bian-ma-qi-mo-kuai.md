@@ -8,6 +8,8 @@
 
 ## 连接图
 
+![](/assets/旋转连接.png)
+
 Switch（开关）、CLK是Clock（时钟）、DT是Data（数据）
 
 ## Arduino代码
