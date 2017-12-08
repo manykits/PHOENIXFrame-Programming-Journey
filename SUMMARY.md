@@ -39,7 +39,6 @@
     * [三色RGBLED模块](di-3-zhang-sao-chu-bian-jie-hu-wei/rgb-ledmo-kuai.md)
     * [电源扩展板](di-3-zhang-sao-chu-bian-jie-hu-wei/dian-yuan-kuo-zhan-ban.md)
     * [迷你舵机](di-3-zhang-sao-chu-bian-jie-hu-wei/mi-ni-duo-ji.md)
-    * [超声波模块](di-3-zhang-sao-chu-bian-jie-hu-wei/chao-sheng-bo.md)
     * [红外无线遥控套件](di-3-zhang-sao-chu-bian-jie-hu-wei/hong-wai-wu-xian-yao-kong-tao-jian.md)
   * [接近深层洞穴\(履带坦克车\)](jie-jin-shen-ceng-dong-xue.md)
   * [严峻的考研（装上履带吧）](yan-jun-de-kao-yan.md)
