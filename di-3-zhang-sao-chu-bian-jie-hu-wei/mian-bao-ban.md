@@ -4,7 +4,5 @@
 
 ## 连线图
 
-![](/assets/mianbaoban.png)
-
-
+![](/assets/mianbaoban1.png)
 
