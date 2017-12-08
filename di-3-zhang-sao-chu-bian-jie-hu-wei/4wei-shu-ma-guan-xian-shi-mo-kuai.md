@@ -11,7 +11,7 @@
 
 ## Arduino 代码
 
-```
+```cpp
 #include "TM1637.h"
 #define PinCLK 2
 #define PinDIO 3
