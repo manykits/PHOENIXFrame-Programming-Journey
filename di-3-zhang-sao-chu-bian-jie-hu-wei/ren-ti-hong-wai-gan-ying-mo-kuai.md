@@ -17,7 +17,33 @@ HC-SR501是基于红外线技术的自动控制模块 ，采用德国原装进�
 
 ## Arduino 代码
 
-
+```cpp
+int PinSensor = A5;    // 指定PIR模拟端口 A5  
+int PinLED = 13;       // 指定LED端口 13  
+int Val = 0;           // 存储获取到的PIR数值  
+  
+void setup()  
+{  
+  pinMode(PinSensor, INPUT);
+  pinMode(PinLED, OUTPUT); 
+  Serial.begin(9600);
+}  
+  
+void loop()  
+{  
+  Val = analogRead(PinSensor);   // 读取A0口的电压值并赋值到val  
+  Serial.println(Val);          // 串口发送val值  
+    
+  if (Val > 150) // 判断PIR数值是否大于150，  
+  {  
+    digitalWrite(PinLED, HIGH);  //大于表示感应到有人  
+  }  
+  else  
+  {  
+    digitalWrite(PinLED, LOW);   //小于表示无感应到有人  
+  }  
+}  
+```
 
 
 
