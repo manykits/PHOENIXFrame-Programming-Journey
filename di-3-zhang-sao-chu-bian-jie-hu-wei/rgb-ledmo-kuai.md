@@ -6,6 +6,8 @@
 
 # 连线图
 
+![](/assets/三色RGB连接.png)
+
 ## Arduino 代码
 
 ```cpp
