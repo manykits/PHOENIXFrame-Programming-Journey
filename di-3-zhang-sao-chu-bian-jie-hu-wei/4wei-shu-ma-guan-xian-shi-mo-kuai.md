@@ -9,6 +9,8 @@
 
 # 连线图
 
+控制接口：共4个引脚（GND·VCC·DIO·CLK），GND为地，VCC为供电电源，DIO为数据输入输出脚，CLK为时钟信号脚。
+
 ## Arduino 代码
 
 ```cpp
