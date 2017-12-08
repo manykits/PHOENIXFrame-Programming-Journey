@@ -8,6 +8,8 @@
 
 ## 连接图
 
+![](/assets/超声波连接.png)
+
 ## Arduino 代码
 
 ```cpp
