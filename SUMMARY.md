@@ -45,6 +45,7 @@
 * [第3章 王者归来](hui-qu-de-lu.md)
   * [衣锦还乡](hui-qu-de-lu/yi-jin-huan-xiang.md)
   * [重生（加上高级设备）](hui-qu-de-lu/zhong-sheng.md)
+    * [码盘电机](hui-qu-de-lu/zhong-sheng/ma-pan-dian-ji.md)
     * [树莓派](hui-qu-de-lu/zhong-sheng/shu-mei-pai.md)
       * [安装系统](hui-qu-de-lu/zhong-sheng/shu-mei-pai/an-zhuang-xi-tong.md)
       * [视频mjpg-streamer](hui-qu-de-lu/zhong-sheng/shu-mei-pai/mjpg-streamer.md)
