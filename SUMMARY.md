@@ -41,7 +41,7 @@
   * [接近深层洞穴\(履带坦克车\)](jie-jin-shen-ceng-dong-xue.md)
   * [严峻的考研（装上履带吧）](yan-jun-de-kao-yan.md)
   * [获得奖励](huo-de-jiang-li.md)
-* [第3章 向着更深的洞穴前行](hui-qu-de-lu/zhong-sheng.md)
+* [第3章 探索未知地图](hui-qu-de-lu/zhong-sheng.md)
   * [码盘电机](hui-qu-de-lu/zhong-sheng/ma-pan-dian-ji.md)
   * [树莓派](hui-qu-de-lu/zhong-sheng/shu-mei-pai.md)
     * [安装系统](hui-qu-de-lu/zhong-sheng/shu-mei-pai/an-zhuang-xi-tong.md)
