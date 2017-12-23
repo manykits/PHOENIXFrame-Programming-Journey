@@ -10,11 +10,29 @@
   * [传奇人物](chuan-qi-ren-wu.md)
   * [Snap编程](da-kai-snap.md)
     * [第一章 Snap基础课-认识Snap](da-kai-snap/snapji-chu-8bfe-ren-shi-snap.md)
-      * 1.认识软件的布局
+      * [1.认识软件的布局](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/1ren-shi-ruan-jian-de-bu-ju.md)
+      * 2.认识动作指令
+      * 3.认识外观指令
+      * 4.认识声音指令
+      * 5.认识画笔指令
+      * 6.认识控制程序指令
+      * 7.认识侦测指令
+      * 8.认识数字和逻辑运算指令
+      * [9.认识变量程序指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/9ren-shi-bian-liang-cheng-xu-zhi-ling.md)
     * [第二章 认识程序逻辑结构](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou.md)
+      * 1.顺序结构
+      * 2.分支结构
+      * 3.循环结构
+      * [4.结构化设计](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou/4jie-gou-hua-she-ji.md)
     * [第三章 新建程序函数块](da-kai-snap/di-san-zhang-xin-jian-cheng-xu-han-shu-kuai.md)
     * [第四章 高级用法](da-kai-snap/di-si-zhang-gao-ji-yong-fa.md)
-    * [第五章 扩展插件控制电机](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji.md)
+      * 1.递归程序-画台阶
+      * [2.递归程序-递归树](da-kai-snap/di-si-zhang-gao-ji-yong-fa/2hua-tai-jie.md)
+      * 3.递归程序-雪花曲线
+    * [第五章 硬件的控制](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji.md)
+      * 控制LED灯
+      * 声音控制
+      * [控制电机马达](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/kong-zhi-dian-ji-ma-da.md)
   * [Arduino编程](di-yi-ge-ji-xian.md)
     * [认识Arduino](di-yi-ge-ji-xian/arduino.md)
     * [认识蓝牙](di-yi-ge-ji-xian/lan-ya.md)
