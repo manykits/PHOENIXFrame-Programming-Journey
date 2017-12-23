@@ -9,7 +9,7 @@
   * [计算机发展的历史](ji-suan-ji-fa-zhan-de-li-shi.md)
   * [传奇人物](chuan-qi-ren-wu.md)
   * [Snap编程](da-kai-snap.md)
-    * [第一章 Snap基础课-认识Snap](da-kai-snap/snapji-chu-8bfe-ren-shi-snap.md)
+    * [第一章 Snap基础课](da-kai-snap/snapji-chu-8bfe-ren-shi-snap.md)
       * [1.认识软件的布局](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/1ren-shi-ruan-jian-de-bu-ju.md)
       * 2.认识动作指令
       * 3.认识外观指令
