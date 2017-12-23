@@ -41,19 +41,19 @@
   * [接近深层洞穴\(履带坦克车\)](jie-jin-shen-ceng-dong-xue.md)
   * [严峻的考研（装上履带吧）](yan-jun-de-kao-yan.md)
   * [获得奖励](huo-de-jiang-li.md)
+* [第3章 向着更深的洞穴前行](hui-qu-de-lu/zhong-sheng.md)
+  * [码盘电机](hui-qu-de-lu/zhong-sheng/ma-pan-dian-ji.md)
+  * [树莓派](hui-qu-de-lu/zhong-sheng/shu-mei-pai.md)
+    * [安装系统](hui-qu-de-lu/zhong-sheng/shu-mei-pai/an-zhuang-xi-tong.md)
+    * [视频mjpg-streamer](hui-qu-de-lu/zhong-sheng/shu-mei-pai/mjpg-streamer.md)
+    * [串口](hui-qu-de-lu/zhong-sheng/shu-mei-pai/chuan-kou.md)
+  * [手机](hui-qu-de-lu/zhong-sheng/android.md)
+    * 安卓
+    * iOS
+  * [激光雷达](hui-qu-de-lu/zhong-sheng/ji-guang-lei-da.md)
+  * [深度摄像头](hui-qu-de-lu/zhong-sheng/shen-du-she-xiang-tou.md)
+  * [PHOENIXCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
 * [第3章 王者归来](hui-qu-de-lu.md)
   * [衣锦还乡](hui-qu-de-lu/yi-jin-huan-xiang.md)
-  * [重生（加上高级设备）](hui-qu-de-lu/zhong-sheng.md)
-    * [码盘电机](hui-qu-de-lu/zhong-sheng/ma-pan-dian-ji.md)
-    * [树莓派](hui-qu-de-lu/zhong-sheng/shu-mei-pai.md)
-      * [安装系统](hui-qu-de-lu/zhong-sheng/shu-mei-pai/an-zhuang-xi-tong.md)
-      * [视频mjpg-streamer](hui-qu-de-lu/zhong-sheng/shu-mei-pai/mjpg-streamer.md)
-      * [串口](hui-qu-de-lu/zhong-sheng/shu-mei-pai/chuan-kou.md)
-    * [手机](hui-qu-de-lu/zhong-sheng/android.md)
-      * 安卓
-      * iOS
-    * [激光雷达](hui-qu-de-lu/zhong-sheng/ji-guang-lei-da.md)
-    * [深度摄像头](hui-qu-de-lu/zhong-sheng/shen-du-she-xiang-tou.md)
-    * [PHOENIXCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
   * [满载而归（向着更远的方向前进）](hui-qu-de-lu/man-zai-er-gui.md)
 
