@@ -8,6 +8,7 @@
 * [第2章 踏上征程](chapter1.md)
   * [计算机发展的历史](ji-suan-ji-fa-zhan-de-li-shi.md)
   * [传奇人物](chuan-qi-ren-wu.md)
+  * [Snap](da-kai-snap.md)
   * [第一个极限（ARDUINO三轮车）](di-yi-ge-ji-xian.md)
     * [Arduino](di-yi-ge-ji-xian/arduino.md)
     * [电机驱动](di-yi-ge-ji-xian/dian-ji-qu-dong.md)
