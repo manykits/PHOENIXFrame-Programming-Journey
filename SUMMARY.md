@@ -48,8 +48,9 @@
 * [第3章 探索未知地图-真正的编程C](hui-qu-de-lu/zhong-sheng.md)
   * [码盘电机](hui-qu-de-lu/zhong-sheng/ma-pan-dian-ji.md)
 * [第4章 王者归来-使用PHOENIXCreate系统](hui-qu-de-lu.md)
-  * [衣锦还乡](hui-qu-de-lu/yi-jin-huan-xiang.md)
+  * [PHOENIXCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
   * [深度摄像头](hui-qu-de-lu/zhong-sheng/shen-du-she-xiang-tou.md)
+  * [衣锦还乡](hui-qu-de-lu/yi-jin-huan-xiang.md)
   * [激光雷达](hui-qu-de-lu/zhong-sheng/ji-guang-lei-da.md)
   * [手机](hui-qu-de-lu/zhong-sheng/android.md)
     * 安卓
@@ -59,5 +60,4 @@
     * [视频mjpg-streamer](hui-qu-de-lu/zhong-sheng/shu-mei-pai/mjpg-streamer.md)
     * [串口](hui-qu-de-lu/zhong-sheng/shu-mei-pai/chuan-kou.md)
   * [满载而归（向着更远的方向前进）](hui-qu-de-lu/man-zai-er-gui.md)
-* [PHOENIXCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
 
