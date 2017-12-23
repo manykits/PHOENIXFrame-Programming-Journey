@@ -1,6 +1,6 @@
 # 传奇人物
 
-![](/assets/jobs.png)
+![](/assets/jobs600x400.png)
 
 乔布斯
 
