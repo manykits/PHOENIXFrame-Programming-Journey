@@ -53,7 +53,7 @@
   * [激光雷达](hui-qu-de-lu/zhong-sheng/ji-guang-lei-da.md)
   * [深度摄像头](hui-qu-de-lu/zhong-sheng/shen-du-she-xiang-tou.md)
   * [PHOENIXCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
-* [第3章 王者归来](hui-qu-de-lu.md)
+* [第4章 王者归来](hui-qu-de-lu.md)
   * [衣锦还乡](hui-qu-de-lu/yi-jin-huan-xiang.md)
   * [满载而归（向着更远的方向前进）](hui-qu-de-lu/man-zai-er-gui.md)
 
