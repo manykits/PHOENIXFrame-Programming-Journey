@@ -13,11 +13,11 @@
       * [1.认识软件的布局](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/1ren-shi-ruan-jian-de-bu-ju.md)
       * [2.认识动作指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/2ren-shi-dong-zuo-zhi-ling.md)
       * [3.认识外观指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/3ren-shi-wai-guan-zhi-ling.md)
-      * 4.认识声音指令
-      * 5.认识画笔指令
-      * 6.认识控制程序指令
-      * 7.认识侦测指令
-      * 8.认识数字和逻辑运算指令
+      * [4.认识声音指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/4ren-shi-sheng-yin-zhi-ling.md)
+      * [5.认识画笔指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/5ren-shi-hua-bi-zhi-ling.md)
+      * [6.认识控制程序指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/6ren-shi-kong-zhi-cheng-xu-zhi-ling.md)
+      * [7.认识侦测指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/7ren-shi-zhen-ce-zhi-ling.md)
+      * [8.认识数字和逻辑运算指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/8ren-shi-shu-zi-he-luo-ji-yun-suan-zhi-ling.md)
       * [9.认识变量程序指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/9ren-shi-bian-liang-cheng-xu-zhi-ling.md)
     * [第二章 认识程序逻辑结构](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou.md)
       * 1.顺序结构
