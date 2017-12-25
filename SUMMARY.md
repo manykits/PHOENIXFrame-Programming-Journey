@@ -16,7 +16,7 @@
       * [4.认识声音指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/4ren-shi-sheng-yin-zhi-ling.md)
       * [5.认识画笔指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/5ren-shi-hua-bi-zhi-ling.md)
       * [6.认识控制程序指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/6ren-shi-kong-zhi-cheng-xu-zhi-ling.md)
-      * [7.认识侦测指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/7ren-shi-zhen-ce-zhi-ling.md)
+      * [7.认识探测指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/7ren-shi-zhen-ce-zhi-ling.md)
       * [8.认识数字和逻辑运算指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/8ren-shi-shu-zi-he-luo-ji-yun-suan-zhi-ling.md)
       * [9.认识变量程序指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/9ren-shi-bian-liang-cheng-xu-zhi-ling.md)
     * [第二章 认识程序逻辑结构](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou.md)
