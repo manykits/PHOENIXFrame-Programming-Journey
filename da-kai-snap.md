@@ -22,3 +22,9 @@ Snap早期版本叫BYOB，意思是Build Your Own Blocks，它是Scratch的一�
 
 Snap最新版本是基于Html5的，他可以在支持Html5的浏览器上运行。原封不动保留了Scratch所有指令；追加一些指令到其中。
 
+# 课程安排
+
+课程总共分为
+
+
+
