@@ -28,11 +28,7 @@ Snap最新版本是基于Html5的，他可以在支持Html5的浏览器上运行
 
 软件在线地址：
 
-软件包下载
+软件包下载地址：
 
-
-
-
-
-
+硬件控制PHOENIXCreate Launcher地址
 
