@@ -12,7 +12,7 @@
     * [第一章 Snap基础课](da-kai-snap/snapji-chu-8bfe-ren-shi-snap.md)
       * [1.认识软件的布局](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/1ren-shi-ruan-jian-de-bu-ju.md)
       * [2.认识动作指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/2ren-shi-dong-zuo-zhi-ling.md)
-      * 3.认识外观指令
+      * [3.认识外观指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/3ren-shi-wai-guan-zhi-ling.md)
       * 4.认识声音指令
       * 5.认识画笔指令
       * 6.认识控制程序指令
