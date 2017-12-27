@@ -37,9 +37,9 @@
     * [认识Arduino](di-yi-ge-ji-xian/arduino.md)
     * [认识蓝牙](di-yi-ge-ji-xian/lan-ya.md)
     * [组装一辆车](di-yi-ge-ji-xian/zu-zhuang-ying-jian.md)
-      * 组装三轮车
-      * 组装四轮车
-      * 组装履带车
+      * [组装三轮车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-san-lun-che.md)
+      * [组装四轮车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-si-lun-che.md)
+      * [组装履带车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-lv-dai-che.md)
     * [电脑图形编程遥控小车](di-yi-ge-ji-xian/tu-xing-bian-cheng-yao-kong.md)
     * [使用手机控制坦克](huo-de-jiang-li.md)
   * [攻克边界护卫传感器，使用Blockly](di-3-zhang-sao-chu-bian-jie-hu-wei.md)
