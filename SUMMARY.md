@@ -20,8 +20,8 @@
       * [8.认识运算指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/8ren-shi-shu-zi-he-luo-ji-yun-suan-zhi-ling.md)
       * [9.认识变量程序指令](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/9ren-shi-bian-liang-cheng-xu-zhi-ling.md)
     * [第二章 认识程序逻辑结构](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou.md)
-      * 1.顺序结构
-      * 2.分支结构
+      * [1.顺序结构](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou/1shun-xu-jie-gou.md)
+      * [2.分支结构](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou/2fen-zhi-jie-gou.md)
       * 3.循环结构
       * [4.结构化设计](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou/4jie-gou-hua-she-ji.md)
     * [第三章 新建程序函数块](da-kai-snap/di-san-zhang-xin-jian-cheng-xu-han-shu-kuai.md)
@@ -30,8 +30,8 @@
       * [2.递归程序-递归树](da-kai-snap/di-si-zhang-gao-ji-yong-fa/2hua-tai-jie.md)
       * 3.递归程序-雪花曲线
     * [第五章 硬件的控制](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji.md)
-      * 控制LED灯
-      * 声音控制
+      * [控制LED灯](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/kong-zhi-led-deng.md)
+      * [声音控制](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/sheng-yin-kong-zhi.md)
       * [控制电机马达](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/kong-zhi-dian-ji-ma-da.md)
   * [Arduino编程](di-yi-ge-ji-xian.md)
     * [认识Arduino](di-yi-ge-ji-xian/arduino.md)
