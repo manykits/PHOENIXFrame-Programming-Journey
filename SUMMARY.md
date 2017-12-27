@@ -36,7 +36,7 @@
   * [Arduino编程](di-yi-ge-ji-xian.md)
     * [认识Arduino](di-yi-ge-ji-xian/arduino.md)
     * [认识蓝牙](di-yi-ge-ji-xian/lan-ya.md)
-    * [组装小车](di-yi-ge-ji-xian/zu-zhuang-ying-jian.md)
+    * [组装一辆三轮车](di-yi-ge-ji-xian/zu-zhuang-ying-jian.md)
     * [电脑图形编程遥控小车](di-yi-ge-ji-xian/tu-xing-bian-cheng-yao-kong.md)
   * [攻克边界护卫传感器，使用Blockly](di-3-zhang-sao-chu-bian-jie-hu-wei.md)
     * [面包板](di-3-zhang-sao-chu-bian-jie-hu-wei/mian-bao-ban.md)
