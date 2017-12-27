@@ -41,6 +41,7 @@
       * 组装四轮车
       * 组装履带车
     * [电脑图形编程遥控小车](di-yi-ge-ji-xian/tu-xing-bian-cheng-yao-kong.md)
+    * [使用手机控制坦克](huo-de-jiang-li.md)
   * [攻克边界护卫传感器，使用Blockly](di-3-zhang-sao-chu-bian-jie-hu-wei.md)
     * [面包板](di-3-zhang-sao-chu-bian-jie-hu-wei/mian-bao-ban.md)
     * [面包版电源扩展版](di-3-zhang-sao-chu-bian-jie-hu-wei/dian-yuan-kuo-zhan-ban.md)
@@ -63,9 +64,7 @@
     * [旋转编码器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/xuan-zhuan-bian-ma-qi-mo-kuai.md)
     * [迷你舵机](di-3-zhang-sao-chu-bian-jie-hu-wei/mi-ni-duo-ji.md)
     * [三色RGB LED](di-3-zhang-sao-chu-bian-jie-hu-wei/san-se-rgbled.md)
-  * [接近深层洞穴 - 组装履带坦克](jie-jin-shen-ceng-dong-xue.md)
-  * [严峻的考研-图形编程让坦克运行](yan-jun-de-kao-yan.md)
-  * [额外“副本”-使用手机控制坦克](huo-de-jiang-li.md)
+  * [Chros机器人](chrosji-qi-ren.md)
 * [第3章 探索未知地图-真正的编程C](hui-qu-de-lu/zhong-sheng.md)
   * [码盘电机](hui-qu-de-lu/zhong-sheng/ma-pan-dian-ji.md)
 * [第4章 王者归来-使用PHOENIXCreate系统](hui-qu-de-lu.md)
