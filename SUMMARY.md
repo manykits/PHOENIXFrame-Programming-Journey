@@ -29,10 +29,6 @@
       * 2.报告-返回最小值
       * 3.判断-大于模块
       * 4.综合应用-战斗
-    * [第四章 高级用法](da-kai-snap/di-si-zhang-gao-ji-yong-fa.md)
-      * 1.递归程序-画台阶
-      * [2.递归程序-递归树](da-kai-snap/di-si-zhang-gao-ji-yong-fa/2hua-tai-jie.md)
-      * 3.递归程序-雪花曲线
     * [第五章 硬件的控制](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji.md)
       * [控制LED灯](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/kong-zhi-led-deng.md)
       * [声音控制](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/sheng-yin-kong-zhi.md)
