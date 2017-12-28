@@ -28,6 +28,7 @@
       * 1.命令-绘制正方形
       * 2.报告-返回最小值
       * 3.判断-大于模块
+      * 4.综合应用-战斗
     * [第四章 高级用法](da-kai-snap/di-si-zhang-gao-ji-yong-fa.md)
       * 1.递归程序-画台阶
       * [2.递归程序-递归树](da-kai-snap/di-si-zhang-gao-ji-yong-fa/2hua-tai-jie.md)
