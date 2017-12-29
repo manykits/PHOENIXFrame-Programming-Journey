@@ -16,3 +16,9 @@ Arduino或genuino板
 
 如果你想用这个草图点燃一个外部LED，你需要建立这个电路，在这里你连接电阻的一端到数字引脚对应的LED\_BUILTIN常数。将LED的长腿\(正极，称为阳极\)连接到电阻器的另一端。连接LED的短腿\(负极腿，称为阴极\)到GND。在下图中，我们显示了一个UNO板，它的LED\_BUILTIN值为D13。 与LED串联的电阻值可能与220欧姆不同；LED也将以高达1K欧姆的数值点燃。
 
+![](/assets/arduinoblink.png)
+
+
+
+
+
