@@ -25,16 +25,15 @@
       * [3.循环结构](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou/3xun-huan-jie-gou.md)
       * [4.结构化设计](da-kai-snap/di-er-zhang-ren-shi-cheng-xu-jie-gou/4jie-gou-hua-she-ji.md)
     * [第三章 新建程序函数块](da-kai-snap/di-san-zhang-xin-jian-cheng-xu-han-shu-kuai.md)
-      * 1.命令-绘制正方形
-      * 2.报告-返回最小值
-      * 3.判断-大于模块
-      * 4.综合应用-战斗
+      * [1.命令-绘制正方形](da-kai-snap/di-san-zhang-xin-jian-cheng-xu-han-shu-kuai/1ming-4ee4-hui-zhi-zheng-fang-xing.md)
+      * [2.报告-返回最小值](da-kai-snap/di-san-zhang-xin-jian-cheng-xu-han-shu-kuai/2bao-544a-fan-hui-zui-xiao-zhi.md)
+      * [3.判断-大于模块](da-kai-snap/di-san-zhang-xin-jian-cheng-xu-han-shu-kuai/3pan-65ad-da-yu-mo-kuai.md)
+      * [4.综合应用-战斗](da-kai-snap/di-san-zhang-xin-jian-cheng-xu-han-shu-kuai/4zong-he-ying-7528-zhan-dou.md)
     * [第五章 硬件的控制](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji.md)
-      * [控制LED灯](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/kong-zhi-led-deng.md)
-      * [声音控制](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/sheng-yin-kong-zhi.md)
+      * [认识Arduino](di-yi-ge-ji-xian/arduino.md)
       * [控制电机马达](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/kong-zhi-dian-ji-ma-da.md)
+      * [Blink](da-kai-snap/di-wu-zhang-shi-yong-snap-kong-zhi-dian-ji/kong-zhi-led-deng.md)
   * [Arduino编程](di-yi-ge-ji-xian.md)
-    * [认识Arduino](di-yi-ge-ji-xian/arduino.md)
     * [认识蓝牙](di-yi-ge-ji-xian/lan-ya.md)
     * [组装一辆车](di-yi-ge-ji-xian/zu-zhuang-ying-jian.md)
       * [组装三轮车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-san-lun-che.md)
