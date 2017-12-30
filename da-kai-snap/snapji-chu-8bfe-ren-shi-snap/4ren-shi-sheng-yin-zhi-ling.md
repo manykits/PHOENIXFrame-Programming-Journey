@@ -14,5 +14,7 @@
 
 在指令里输入
 
+![](/assets/sound-play.png)
 
+电机小绿旗播放音乐
 
