@@ -8,6 +8,7 @@
 * [第2章 踏上征程-图形编程](chapter1.md)
   * [计算机发展的历史](ji-suan-ji-fa-zhan-de-li-shi.md)
   * [传奇人物](chuan-qi-ren-wu.md)
+  * [故事序幕](gu-shi-xu-mu.md)
   * [Snap编程](da-kai-snap.md)
     * [第一章 Snap基础课](da-kai-snap/snapji-chu-8bfe-ren-shi-snap.md)
       * [1.认识软件的布局](da-kai-snap/snapji-chu-8bfe-ren-shi-snap/1ren-shi-ruan-jian-de-bu-ju.md)
