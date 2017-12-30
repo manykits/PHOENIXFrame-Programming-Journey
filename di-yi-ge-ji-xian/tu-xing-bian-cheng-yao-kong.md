@@ -2,11 +2,11 @@
 
 # 课程准备
 
-
-
 # 内容
 
 ![](/assets/vehicle.png)
 
-当点击小绿旗时，PHONEIXFrame进行初始化
+当点击小绿旗时，PHONEIXFrame进行初始化，
+
+当电机上下左右，分别为小车发送前进，后退，左转，右转指令。
 
