@@ -12,5 +12,3 @@
 
 4.上传PhoenixFrameFireware
 
-5.打开APP程序，开始操控
-
