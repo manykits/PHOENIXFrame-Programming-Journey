@@ -14,5 +14,11 @@
 
 ![](/assets/story-sward.png)
 
+![](/assets/story-fashi.png)
+
+![](/assets/fashi1-png)
+
+![](/assets/story-gongjianshou.png)
+
 
 
