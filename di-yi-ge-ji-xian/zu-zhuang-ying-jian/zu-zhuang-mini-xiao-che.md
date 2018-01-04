@@ -100,7 +100,7 @@
 
 12.电机电源线连接
 
-![](/assets/c13.png)
+![](/assets/CC11.png)
 
 13.GPIO扩展板安装
 
