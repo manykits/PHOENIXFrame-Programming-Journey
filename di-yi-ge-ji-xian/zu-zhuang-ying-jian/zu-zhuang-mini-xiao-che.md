@@ -48,25 +48,19 @@ PHOENIXFRAMEmini机器人组装流程
 
 1.迷你金属车板+迷你电机+迷你电机固定夹套件
 
-![](/assets/A2.jpg)
+![](/assets/A111.png)
 
-                           ![](/assets/c1.png)
 
-![](/assets/A3.jpg)
 
 2.迷你车轮安装
 
-![](/assets/A4.jpg)
-
-                               ![](/assets/c1.png)
-
-![](/assets/A5.jpg)
+![](/assets/A112.png)
 
 3.万向轮、电池夹、循迹模块安装
 
 ![](/assets/A61.jpg)
 
-                           ![](/assets/c1.png)
+
 
 ![](/assets/A7.jpg)![](/assets/A8.jpg)
 
