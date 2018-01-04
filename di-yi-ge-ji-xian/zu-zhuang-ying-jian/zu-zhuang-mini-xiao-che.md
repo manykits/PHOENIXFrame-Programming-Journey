@@ -1,4 +1,4 @@
-PHOENIXFRAMEmini机器人零件清单
+**PHOENIXFRAMEmini机器人零件清单**
 
 1.M3铜柱\*5mm
 
@@ -44,13 +44,11 @@ PHOENIXFRAMEmini机器人零件清单
 
 22.循迹模块连接线 ×2
 
-PHOENIXFRAMEmini机器人组装流程
+**PHOENIXFRAMEmini机器人组装流程**
 
 1.迷你金属车板+迷你电机+迷你电机固定夹套件
 
 ![](/assets/A111.png)
-
-
 
 2.迷你车轮安装
 
@@ -59,8 +57,6 @@ PHOENIXFRAMEmini机器人组装流程
 3.万向轮、电池夹、循迹模块安装
 
 ![](/assets/A61.jpg)
-
-
 
 ![](/assets/A7.jpg)![](/assets/A8.jpg)
 
