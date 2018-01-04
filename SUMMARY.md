@@ -39,6 +39,7 @@
         * [组装三轮车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-san-lun-che.md)
         * [组装四轮车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-si-lun-che.md)
         * [组装履带车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-lv-dai-che.md)
+        * [组装MINI小车](di-yi-ge-ji-xian/zu-zhuang-ying-jian/zu-zhuang-mini-xiao-che.md)
       * [电脑图形编程遥控小车](di-yi-ge-ji-xian/tu-xing-bian-cheng-yao-kong.md)
       * [使用手机控制坦克](huo-de-jiang-li.md)
   * [Chros机器人](chrosji-qi-ren.md)
