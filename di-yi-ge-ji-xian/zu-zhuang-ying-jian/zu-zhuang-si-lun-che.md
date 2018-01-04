@@ -64,5 +64,15 @@
 
 ![](/assets/C7.png)
 
-5.
+![](/assets/s5.png)
+
+5.电池夹安装
+
+![](/assets/S6.png)
+
+![](/assets/S7.png)
+
+6.手机夹组装
+
+![](/assets/S8.png)
 
