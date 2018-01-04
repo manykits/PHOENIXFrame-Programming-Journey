@@ -94,3 +94,17 @@
 
 ![](/assets/S13.png)
 
+11.电机电源线连接
+
+![](/assets/S14.png)
+
+12.GPIO扩展板安装
+
+![](/assets/S15.png)
+
+13.超声波连接
+
+![](/assets/S16.png)
+
+14.
+
