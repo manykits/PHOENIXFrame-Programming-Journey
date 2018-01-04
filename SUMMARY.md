@@ -66,6 +66,7 @@
   * [旋转编码器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/xuan-zhuan-bian-ma-qi-mo-kuai.md)
   * [迷你舵机](di-3-zhang-sao-chu-bian-jie-hu-wei/mi-ni-duo-ji.md)
   * [三色RGB LED](di-3-zhang-sao-chu-bian-jie-hu-wei/san-se-rgbled.md)
+  * 土壤湿度计检测模块
 * [第4章 王者归来-使用PHOENIXCreate系统](hui-qu-de-lu.md)
   * [PHOENIXCreate](hui-qu-de-lu/zhong-sheng/phoenixcreate.md)
   * [深度摄像头](hui-qu-de-lu/zhong-sheng/shen-du-she-xiang-tou.md)
