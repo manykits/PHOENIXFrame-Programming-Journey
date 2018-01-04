@@ -61,7 +61,7 @@
   * [轻触开关模块](di-3-zhang-sao-chu-bian-jie-hu-wei/qing-hong-kai-guan-mo-kuai.md)
   * [超声波测距模块](di-3-zhang-sao-chu-bian-jie-hu-wei/chao-sheng-bo-ce-ju-mo-kuai.md)
   * [激光头传感器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/ji-guang-tou-chuan-gan-qi-mo-kuai.md)
-  * [4位数码管显示模块](di-3-zhang-sao-chu-bian-jie-hu-wei/4wei-shu-ma-guan-xian-shi-mo-kuai.md)
+  * [四位数码管显示模块](di-3-zhang-sao-chu-bian-jie-hu-wei/4wei-shu-ma-guan-xian-shi-mo-kuai.md)
   * [人体红外感应模块](di-3-zhang-sao-chu-bian-jie-hu-wei/ren-ti-hong-wai-gan-ying-mo-kuai.md)
   * [旋转编码器模块](di-3-zhang-sao-chu-bian-jie-hu-wei/xuan-zhuan-bian-ma-qi-mo-kuai.md)
   * [迷你舵机](di-3-zhang-sao-chu-bian-jie-hu-wei/mi-ni-duo-ji.md)
