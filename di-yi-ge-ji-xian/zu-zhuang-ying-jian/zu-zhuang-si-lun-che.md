@@ -76,3 +76,17 @@
 
 ![](/assets/S8.png)
 
+7.超声波、手机夹安装
+
+![](/assets/S9.png)
+
+![](/assets/S10.png)
+
+8.Arduino主板、扩展板安装
+
+![](/assets/S11.png)
+
+9.TT马达安装
+
+
+
