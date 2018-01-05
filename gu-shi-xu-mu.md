@@ -6,7 +6,7 @@
 
 然而来自外域邪恶的奥塔魔王想要统治这个世界。没有人见过它长啥样。据说见过他的人都被他关进了地牢里，连这个世界最会编程的阿曼大师也不例外。
 
-![](/assets/story-dragon.png)
+![](/assets/AA1.png)
 
 呵呵呵，没错，就是我。
 
@@ -19,6 +19,4 @@
 ![](/assets/fashi1-png)
 
 ![](/assets/story-gongjianshou.png)
-
-
 
