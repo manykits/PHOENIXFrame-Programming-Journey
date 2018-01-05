@@ -50,5 +50,35 @@
 
 **PHOENIXFRAME履带车组装指南**
 
+1.底部车身组装
 
+![](/assets/L01.png)
+
+2.支撑铝片安装
+
+![](/assets/L2.png)
+
+3.车身支架安装1
+
+![](/assets/L3.png)
+
+4.车身支架安装2
+
+![](/assets/L4.png)
+
+5.多功能连接板组装
+
+![](/assets/c6.png)
+
+![](/assets/C7.png)
+
+![](/assets/L5.png)
+
+6.电池夹安装
+
+![](/assets/L6.png)
+
+7.Arduino主板、扩展板安装
+
+![](/assets/L7.png)
 
