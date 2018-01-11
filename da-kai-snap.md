@@ -28,11 +28,7 @@ Snap最新版本是基于Html5的，他可以在支持Html5的浏览器上运行
 
 # 学前准备：
 
-创造社区网址：[http://www.manykit.com](http://www.manykit.com)
+打开PXSnap软件在线地址：[http://www.manykit.com/snap](http://www.manykit.com/snap)
 
-编程网址：[http://www.manykit.com/code](http://www.manykit.com/code/)
-
-PXSnap软件在线地址：[http://www.manykit.com/snap](http://www.manykit.com/snap)
-
-PHOENIX引擎下载地址：[https://pan.baidu.com/s/1dGMdPdB](https://pan.baidu.com/s/1dGMdPdB)
+下载PHOENIX引擎，下载地址：[https://pan.baidu.com/s/1dGMdPdB](https://pan.baidu.com/s/1dGMdPdB)
 
