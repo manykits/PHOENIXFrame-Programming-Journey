@@ -26,7 +26,7 @@ Snap最新版本是基于Html5的，他可以在支持Html5的浏览器上运行
 
 课程总共分为5个章节，由浅入深。
 
-# 相关软硬件：
+# 学前准备：
 
 创造社区网址：[http://www.manykit.com](http://www.manykit.com)
 
