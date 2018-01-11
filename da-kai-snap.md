@@ -28,9 +28,13 @@ Snap最新版本是基于Html5的，他可以在支持Html5的浏览器上运行
 
 # 相关软硬件：
 
+创造社区网址：[http://www.manykit.com](http://www.manykit.com)
+
+编程网址：[http://www.manykit.com/code](http://www.manykit.com/code/)
+
 软件在线地址：[http://www.manykit.com/snap](http://www.manykit.com/snap)
 
-PHOENIX引擎下载地址：
+PHOENIX引擎下载地址：[https://pan.baidu.com/s/1dGMdPdB](https://pan.baidu.com/s/1dGMdPdB)
 
 硬件控制PHOENIXCreate Launcher地址：
 
