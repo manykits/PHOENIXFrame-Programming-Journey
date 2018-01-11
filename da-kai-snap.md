@@ -32,7 +32,7 @@ Snap最新版本是基于Html5的，他可以在支持Html5的浏览器上运行
 
 编程网址：[http://www.manykit.com/code](http://www.manykit.com/code/)
 
-软件在线地址：[http://www.manykit.com/snap](http://www.manykit.com/snap)
+Snap软件在线地址：[http://www.manykit.com/snap](http://www.manykit.com/snap)
 
 PHOENIX引擎下载地址：[https://pan.baidu.com/s/1dGMdPdB](https://pan.baidu.com/s/1dGMdPdB)
 
