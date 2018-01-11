@@ -1,6 +1,6 @@
 # 1.认识软件的布局![](/assets/snap1.png)Snap主界面
 
-打开网址www.manykit.com/snap
+打开网址www.manykit.com/snap，你将看到如上界面，也许是黑色的，不过都没关系，那是不同的皮肤，功能都是一样的。
 
 Snap编程软件主要由指令区，编程区，舞台区，角色管理区组成。
 
