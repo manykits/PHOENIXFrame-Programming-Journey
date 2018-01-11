@@ -6,7 +6,7 @@
   * [冒险的呼唤](mao-xian-de-zhao-hu.md)
   * [与智者相遇](di-1-zhang-shi-ming-zhao-huan/yu-zhi-zhe-xiang-yu.md)
 * [第2章 踏上征程-图形编程](chapter1.md)
-  * [计算机发展的历史](ji-suan-ji-fa-zhan-de-li-shi.md)
+  * [计算机发展的历程](ji-suan-ji-fa-zhan-de-li-shi.md)
   * [传奇人物](chuan-qi-ren-wu.md)
   * [故事序幕](gu-shi-xu-mu.md)
   * [Snap编程](da-kai-snap.md)
